@@ -1,0 +1,74 @@
+{
+  "release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-11T13:15:16.000Z",
+    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/9892114502",
+    "latest": true,
+    "tags": [
+      "release",
+      "release-1.40.4.8679-424562606",
+      "release-d49f8ed"
+    ]
+  },
+  "update-digests-release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-11T12:28:00.000Z",
+    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/9891368656",
+    "latest": true,
+    "tags": [
+      "update-digests-release",
+      "update-digests-release-1.40.3.8555-fef15d30c",
+      "update-digests-release-3bb3840"
+    ]
+  },
+  "update-digests-update-versions-release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-11T12:27:51.000Z",
+    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/9891369223",
+    "latest": true,
+    "tags": [
+      "update-digests-update-versions-release",
+      "update-digests-update-versions-release-1.40.4.8679-424562606",
+      "update-digests-update-versions-release-97864e7"
+    ]
+  },
+  "update-release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-11T12:34:23.000Z",
+    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/9891474555",
+    "latest": true,
+    "tags": [
+      "update-release",
+      "update-release-1.40.4.8679-424562606",
+      "update-release-6429d66"
+    ]
+  },
+  "update-versions-release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-11T12:27:56.000Z",
+    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/9891370955",
+    "latest": true,
+    "tags": [
+      "update-versions-release",
+      "update-versions-release-1.40.4.8679-424562606",
+      "update-versions-release-2734fab"
+    ]
+  },
+  "update-versions-update-digests-release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-11T12:27:55.000Z",
+    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/9891371631",
+    "latest": true,
+    "tags": [
+      "update-versions-update-digests-release",
+      "update-versions-update-digests-release-1.40.4.8679-424562606",
+      "update-versions-update-digests-release-f0a54c1"
+    ]
+  }
+}
