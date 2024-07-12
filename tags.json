@@ -2,13 +2,13 @@
   "release": {
     "description": "Stable",
     "hide": false,
-    "last_updated": "2024-07-12T13:59:01.000Z",
-    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/9909054532",
+    "last_updated": "2024-07-12T15:18:06.000Z",
+    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/9910171251",
     "latest": true,
     "tags": [
       "release",
       "release-1.40.4.8679-424562606",
-      "release-e0980ef"
+      "release-2024fc5"
     ]
   },
   "update-digests-release": {
