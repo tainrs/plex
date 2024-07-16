@@ -98,8 +98,7 @@ token="$(getPref "PlexOnlineToken")"
 # If neither server token nor claim token is set, exit.
 if [[ -z "${token}" ]]; then
     if [[ -z "${PLEX_CLAIM_TOKEN}" ]]; then
-        echo "No server token or claim token provided. Please set the PLEX_CLAIM_TOKEN environment variable. Exiting..."
-        exit 1
+        echo "If you intend to claim this server and make it accessible via Plex, please provide a claim token."
     else
         echo "Attempting to obtain server token from claim token..."
         loginInfo="$(curl -fsSL -X POST \

@@ -40,4 +40,4 @@ image=$(basename "$(git rev-parse --show-toplevel)")
 # -t: Tag the image with the format "org/repo-platform".
 # $(for ... ; done; echo $out; out=""): Parse the VERSION.json file with `jq`, convert the keys to uppercase,
 # and use the key-value pairs as build arguments.
-docker build --progress=plain --platform "linux/${1}" -f "./linux-${1}.Dockerfile" -t "${org}/${image}-${1}" $(for i in $(jq -r 'to_entries[] | [(.key | ascii_upcase),.value] | join("=")' < VERSION.json); do out+="--build-arg $i " ; done; echo $out; out="") .
+docker build --platform "linux/${1}" -f "./linux-${1}.Dockerfile" -t "${org}/${image}-${1}" $(for i in $(jq -r 'to_entries[] | [(.key | ascii_upcase),.value] | join("=")' < VERSION.json); do out+="--build-arg $i " ; done; echo $out; out="") .
