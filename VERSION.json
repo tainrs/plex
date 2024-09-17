@@ -4,7 +4,7 @@
   "test_amd64": true,
   "test_arm64": false,
   "test_url": "http://localhost:32400/web",
-  "upstream_digest_amd64": "sha256:0956961b7038fe42303a18d7f1162bc5fda1a600769acc4edf15f030249b601f",
+  "upstream_digest_amd64": "sha256:50650279eb43fd6b4be3dff736016ab56687b1cf3badb3cb6392629aef5446d0",
   "upstream_digest_arm64": "",
   "upstream_image": "docker.io/tainrs/base",
   "upstream_tag": "jammy",
