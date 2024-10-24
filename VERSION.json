@@ -8,5 +8,5 @@
   "upstream_digest_arm64": "",
   "upstream_image": "docker.io/tainrs/base",
   "upstream_tag": "jammy",
-  "version": "1.41.0.8994-f2c27da23"
+  "version": "1.41.1.9057-af5eaea7a"
 }
