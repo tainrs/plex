@@ -14,13 +14,13 @@
   "update-versions-release": {
     "description": "Stable",
     "hide": false,
-    "last_updated": "2026-01-02T22:23:38.000Z",
-    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/20667857638",
+    "last_updated": "2026-01-03T10:28:07.000Z",
+    "last_updated_url": "https://github.com/tainrs/plex/actions/runs/20676006478",
     "latest": true,
     "tags": [
       "update-versions-release",
       "update-versions-release-1.42.2.10156-f737b826c",
-      "update-versions-release-d1c818f"
+      "update-versions-release-ec29be4"
     ]
   }
 }
